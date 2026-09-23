@@ -155,39 +155,7 @@ Data Analyst | SQL • Excel • Power BI • Python | Turning Data into Insight
 
 ---
 
-## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=poojaa-110&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/poojaa-110">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojaa-110&hide_border=true" alt="Pooja's GitHub Activity Graph"/>
-  </a>
-</p>
-
----
-
-## 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/poojaa-110/poojaa-110/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poojaa-110&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 📌 What I'm Currently Working On
 
