@@ -106,17 +106,6 @@ Analyzed employee **attendance, productivity and workforce utilization** to iden
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=poojaa-110&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojaa-110&layout=compact&hide_border=true&langs_count=8" height="180"/>
-
-</p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -128,35 +117,7 @@ Analyzed employee **attendance, productivity and workforce utilization** to iden
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poojaa-110&hide_border=true" alt="GitHub Activity Graph"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=poojaa-110&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-
-</p>
-
----
-
-# 📅 Contribution Graph
-
-<p align="center">
-
-<img src="https://github.com/poojaa-110/poojaa-110/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</p>
-
----
 
 # 🌱 Currently Learning
 
