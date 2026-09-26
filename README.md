@@ -144,17 +144,7 @@
 
 ---
 
-## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojaa-110&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Pooja's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojaa-110&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
