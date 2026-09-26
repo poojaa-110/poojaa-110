@@ -92,7 +92,7 @@
 <h3 align="center">🎧 SaaS Support Analytics</h3>
 
 <p align="center">
-  SQL-based analysis of support tickets to identify operational bottlenecks, resolution efficiency and customer satisfaction patterns.
+  Python-based analysis of support tickets to identify operational bottlenecks, resolution efficiency and customer satisfaction patterns.
 </p>
 
 <p align="center">
