@@ -164,21 +164,7 @@
 
 ---
 
-## 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojaa-110&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poojaa-110&theme=flat&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 📂 My GitHub
 
@@ -218,7 +204,7 @@ Statistics      ██████████░░░░░░░░░░  Le
 
 My current areas of interest include:
 
-**Healthcare Analytics • Business Analytics • SaaS Analytics • Financial/Stock Market Analytics**
+**Healthcare Analytics • Business Analytics • SaaS Analytics**
 
 ---
 
