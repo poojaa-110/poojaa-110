@@ -1,189 +1,251 @@
-**<h1 align="center">Hi 👋, I'm Pooja Kumari</h1>**
+<h1 align="center">Hi 👋, I'm Pooja Kumari</h1>
 
-<h3 align="center">Data Analyst | SQL • Excel • Power BI • Python | Turning Data into Insights</h3>
+<h3 align="center">
+  Data Analyst | SQL • Excel • Power BI • Python
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poojaa-110&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/poojaa-110?label=Followers&style=flat" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/poojaa-110?label=Stars&style=flat" alt="GitHub Stars"/>
+  Turning data into meaningful insights and business solutions 📊
+</p>
+
+<p align="center">
+  <a href="https://github.com/poojaa-110">
+    <img src="https://komarev.com/ghpvc/?username=poojaa-110&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/poojaa-110?tab=followers">
+    <img src="https://img.shields.io/github/followers/poojaa-110?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/poojaa-110?tab=repositories">
+    <img src="https://img.shields.io/github/stars/poojaa-110?affiliations=OWNER&style=flat&label=Stars" alt="GitHub Stars"/>
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 **Biomedical Science Graduate from University of Delhi**
-
-📊 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
-
-🏥 Interested in **Healthcare Analytics, Business Analytics, Reporting & Data Visualization**.
-
-💡 I enjoy analyzing data, identifying trends and solving real-world business problems.
-
-🌱 Currently strengthening my skills in **SQL, Python, Pandas and Statistics**.
-
-📍 Delhi, India
+* 🎓 **B.Sc. (Hons.) Biomedical Science** graduate from Delhi University
+* 📊 Aspiring **Data Analyst** focused on turning raw data into actionable insights
+* 🧮 Strong interest in **SQL, Excel, Power BI and Data Analytics**
+* 🐍 Currently strengthening my **Python and Statistics** skills
+* 🏥 Interested in **Healthcare Analytics, Business Analytics and Data-driven decision making**
+* 💡 I enjoy solving business problems through data
+* 🚀 Building practical projects to develop real-world analytics skills
+* 📍 Based in **Delhi, India**
 
 ---
 
 ## 🛠️ Skills & Tools
 
+### 📊 Data Analytics
+
 <p align="left">
-
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="45"/>
-
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45"/>
-
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45"/>
-
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-**Core Skills**
+### 🐍 Python & Libraries
 
-`SQL` `Excel` `Power BI` `Python` `Pandas` `Data Cleaning`
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</p>
 
-`EDA` `Statistics` `Data Visualization` `Dashboard Development`
+### 🗄️ Databases & Other Tools
 
-`Reporting` `Business Analytics` `Healthcare Analytics`
-
----
-
-# 📂 Featured Projects
-
-### 🏥 Healthcare Network Analysis
-
-Healthcare-focused analysis exploring **healthcare networks, providers and related data relationships** to identify meaningful patterns and insights.
-
-🔗 **[View Project](https://github.com/poojaa-110/HEALTHCARE-NETWORKS-)**
-
----
-
-### 🏥 Hospital Emergency Room Analysis
-
-Analyzed emergency room data to understand **patient volume, admission rates, waiting time and patient satisfaction**.
-
-**Tools:** SQL • Power BI • Data Visualization
-
-🔗 **[View Projects](https://github.com/poojaa-110?tab=repositories)**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
 ---
 
-### 📈 Telecom Customer Churn Analysis
+## 📌 Featured Projects
 
-Analyzed customer data to understand **churn patterns and factors associated with customer retention**.
+<table>
+<tr>
 
-**Tools:** Python • Pandas • Data Visualization
+<td width="50%">
 
-🔗 **[View Project](https://github.com/poojaa-110/Customer-churn-analysis)**
+<h3 align="center">🏥 Healthcare Analytics</h3>
+
+<p align="center">
+  Healthcare data analysis project focused on extracting meaningful insights from healthcare-related data.
+</p>
+
+<p align="center">
+  <a href="https://github.com/poojaa-110">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🎧 SaaS Support Analytics</h3>
+
+<p align="center">
+  SQL-based analysis of support tickets to identify operational bottlenecks, resolution efficiency and customer satisfaction patterns.
+</p>
+
+<p align="center">
+  <a href="https://github.com/poojaa-110">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">📞 Customer Churn Analysis</h3>
+
+<p align="center">
+  Data analysis project exploring customer behavior and factors associated with customer churn.
+</p>
+
+<p align="center">
+  <a href="https://github.com/poojaa-110/Customer-churn-analysis">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">👥 Employee Workforce Analytics</h3>
+
+<p align="center">
+  SQL and dashboard-based analysis of workforce productivity, attendance, utilization and departmental performance.
+</p>
+
+<p align="center">
+  <a href="https://github.com/poojaa-110">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🍕 Pizza Sales Analysis
+## 📈 GitHub Analytics
 
-SQL-based analysis of pizza sales to calculate **revenue, average order value, pizzas per order and sales trends**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poojaa-110&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Pooja's GitHub Stats"/>
+</p>
 
-**Tools:** MySQL • SQL
-
-🔗 **[View Projects](https://github.com/poojaa-110?tab=repositories)**
-
----
-
-### 📊 Employee Workforce Analytics
-
-Analyzed employee **attendance, productivity and workforce utilization** to identify workforce trends.
-
-**Tools:** Excel • SQL • Power BI
-
-🔗 **[View Projects](https://github.com/poojaa-110?tab=repositories)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojaa-110&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
 ---
 
+## 🔥 Contribution Streak
 
-# 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poojaa-110&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojaa-110&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=poojaa-110&theme=flat&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📂 My GitHub
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=poojaa-110&hide_border=true" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/poojaa-110?tab=repositories">
+  <img src="https://img.shields.io/badge/📁%20Repositories-Explore-181717?style=for-the-badge" alt="Repositories"/>
+</a>
+
+<a href="https://github.com/poojaa-110?tab=stars">
+  <img src="https://img.shields.io/badge/⭐%20Stars-View-181717?style=for-the-badge" alt="Stars"/>
+</a>
+
+<a href="https://github.com/poojaa-110?tab=followers">
+  <img src="https://img.shields.io/badge/👥%20Followers-View-181717?style=for-the-badge" alt="Followers"/>
+</a>
 
 </p>
 
 ---
 
-
-
-# 🌱 Currently Learning
-
-📌 Advanced SQL
-
-📌 Statistics for Data Analytics
-
-📌 Python & Pandas
-
-📌 Exploratory Data Analysis
-
-📌 Business & Healthcare Analytics
-
-📌 Advanced Power BI
-
----
-
-# 🎯 My Analytics Journey
+## 📚 Currently Learning
 
 ```text
-Excel
-  ↓
-SQL
-  ↓
-Power BI
-  ↓
-Python & Pandas
-  ↓
-Statistics & EDA
-  ↓
-Business & Healthcare Analytics
+SQL             ████████████████████  Advanced
+Excel           ████████████████████  Advanced
+Power BI        ██████████████████░░  Advanced
+Python          ████████████░░░░░░░░  Learning
+Statistics      ██████████░░░░░░░░░░  Learning
 ```
 
 ---
 
-# 📫 Connect With Me
+## 🎯 What I’m Working Towards
 
-<p align="left">
+> Building strong, practical data analytics projects that solve real-world business problems and demonstrate how data can support better decisions.
+
+My current areas of interest include:
+
+**Healthcare Analytics • Business Analytics • SaaS Analytics • Financial/Stock Market Analytics**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/pooja-kumari-612640352/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:kumaripooja1410@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="35"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/poojaa-110">
-<img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" height="35" width="35"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
-
-📧 **Email:** [kumaripooja1410@gmail.com](mailto:kumaripooja1410@gmail.com)
-
-💼 **LinkedIn:** [Pooja Kumari](https://www.linkedin.com/in/pooja-kumari-612640352/)
-
-🐙 **GitHub:** [poojaa-110](https://github.com/poojaa-110)
 
 ---
 
 <p align="center">
-  <b>Turning Data into Insights 📊 | Building Analytics Projects 🚀</b>
+  <i>“Turning data into insights, one project at a time.”</i>
 </p>
 
 <p align="center">
-  ⭐ Explore my repositories and analytics projects!
+  ⭐ If you find my projects useful, feel free to star them!
 </p>
-
